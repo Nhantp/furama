@@ -1,0 +1,9 @@
+# ninja log v5
+1	323	6734677149924368	CMakeFiles/Puruma_project.dir/main.cpp.obj	22b0017f671f29c5
+22	447	6734692706416171	CMakeFiles/Puruma_project.dir/model/Employee.cpp.obj	99e195f04094ef2b
+17	449	6734692706434768	CMakeFiles/Puruma_project.dir/model/Facility.cpp.obj	e231a9990698cd9e
+10	448	6734692706434768	CMakeFiles/Puruma_project.dir/model/Customer.cpp.obj	26b3974804e70faa
+28	448	6734692706416171	CMakeFiles/Puruma_project.dir/model/Room.cpp.obj	bab085d09380d977
+15	335	6734695792229433	CMakeFiles/Puruma_project.dir/model/Villa.cpp.obj	70ef1e287722af4c
+10	338	6734695792239890	CMakeFiles/Puruma_project.dir/model/Room.cpp.obj	bab085d09380d977
+20	348	6734695792400706	CMakeFiles/Puruma_project.dir/model/House.cpp.obj	de3ed89ac80b3a3
