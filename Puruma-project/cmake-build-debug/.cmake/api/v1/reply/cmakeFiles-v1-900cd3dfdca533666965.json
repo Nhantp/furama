@@ -149,8 +149,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Puruma-project/cmake-build-debug",
-		"source" : "D:/Puruma-project"
+		"build" : "D:/furama/Puruma-project/cmake-build-debug",
+		"source" : "D:/furama/Puruma-project"
 	},
 	"version" : 
 	{

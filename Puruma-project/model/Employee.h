@@ -10,13 +10,27 @@
 
 class Employee :public Person {
 private:
+public:
+    const string &getLevel() const;
+
+    void setLevel(const string &level);
+
+    const string &getPosition() const;
+
+    void setPosition(const string &position);
+
+    float getSalary() const;
+
+    void setSalary(float salary);
+
+private:
     string level;
     string position;
     float salary;
 public:
     Employee();
 
-    Employee(const string &idCode, const string &nameOfBirth, const string &dateOfBirth, const string &sex,
+    Employee(const string &idCode, const string &name, const string &dateOfBirth, const string &sex,
              const string &idPerson, const string &phoneNumber, const string &emailAdress, const string &level,
              const string &position, float salary);
     void output();

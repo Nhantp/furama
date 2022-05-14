@@ -1,4 +1,4 @@
-"C:\Users\REGION\Desktop\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/REGION/Desktop/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\Puruma-project -B D:\Puruma-project\cmake-build-debug
+"C:\Users\REGION\Desktop\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/REGION/Desktop/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\furama\Puruma-project -B D:\furama\Puruma-project\cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Puruma-project/cmake-build-debug
+-- Build files have been written to: D:/furama/Puruma-project/cmake-build-debug

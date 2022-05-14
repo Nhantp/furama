@@ -11,3 +11,7 @@ Facility::Facility(const string &idFacility, const string &nameService, double a
                                                                      areaUse(areaUse), rentalPrice(rentalPrice),
                                                                      rentalMaxPeople(rentalMaxPeople),
                                                                      styleRental(styleRental) {}
+
+void Facility::output() {
+
+}

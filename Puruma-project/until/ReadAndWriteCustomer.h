@@ -1,0 +1,12 @@
+//
+// Created by Nhân on 13/05/2022.
+//
+
+#ifndef PURUMA_PROJECT_READANDWRITECUSTOMER_H
+#define PURUMA_PROJECT_READANDWRITECUSTOMER_H
+
+#include <iostream>;
+#include<fstream>
+
+
+#endif //PURUMA_PROJECT_READANDWRITECUSTOMER_H

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Puruma-project/cmake-build-debug"
+			"value" : "d:/furama/Puruma-project/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Puruma-project"
+			"value" : "D:/furama/Puruma-project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Puruma-project/cmake-build-debug"
+			"value" : "D:/furama/Puruma-project/cmake-build-debug"
 		},
 		{
 			"name" : "Puruma_project_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Puruma-project"
+			"value" : "D:/furama/Puruma-project"
 		}
 	],
 	"kind" : "cache",

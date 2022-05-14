@@ -10,3 +10,7 @@ Room::Room(const string &idFacility, const string &nameService, double areaUse, 
                                                                             rentalPrice, rentalMaxPeople, styleRental),
                                                                    freeService(freeService) {}
 
+void Room::ouput() {
+
+}
+

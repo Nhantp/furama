@@ -11,3 +11,7 @@ House::House(const string &idFacility, const string &nameService, double areaUse
         idFacility, nameService, areaUse, rentalPrice, rentalMaxPeople, styleRental), standaHouse(standaHouse),
                                                                                                      floor(floor) {}
 
+void House::output() {
+    Facility::output();
+}
+

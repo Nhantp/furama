@@ -16,11 +16,12 @@ protected:
 public:
     Customer();
 
-    Customer(const string &idCode, const string &nameOfBirth, const string &dateOfBirth, const string &sex,
+    Customer(const string &idCode, const string &name, const string &dateOfBirth, const string &sex,
              const string &idPerson, const string &phoneNumber, const string &emailAdress, const string &typeCustomer,
              const string &address);
 
-    void output();
+private:
+    void output() override;
 
 };
 
